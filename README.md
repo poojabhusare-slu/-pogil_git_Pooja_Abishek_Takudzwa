@@ -1,3 +1,3 @@
 Manager - Pooja
-Teammate 1 - Abishek Arivudainambi
-Teammate 2 - Takudzwa
+Teammate 2 - Abishek Arivudainambi
+Teammate 1 - Takudzwa 
